@@ -14,4 +14,4 @@ int main() {
         scanf("%d", &arr[i]);
     }
     
- 
+ hello, i am making scm file
